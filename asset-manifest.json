@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thomas5/fb-canton-tutor-app.git/static/css/main.f855e6bc.css",
+    "main.js": "/thomas5/fb-canton-tutor-app.git/static/js/main.8a2c0030.js",
+    "static/js/453.70af88a0.chunk.js": "/thomas5/fb-canton-tutor-app.git/static/js/453.70af88a0.chunk.js",
+    "index.html": "/thomas5/fb-canton-tutor-app.git/index.html",
+    "main.f855e6bc.css.map": "/thomas5/fb-canton-tutor-app.git/static/css/main.f855e6bc.css.map",
+    "main.8a2c0030.js.map": "/thomas5/fb-canton-tutor-app.git/static/js/main.8a2c0030.js.map",
+    "453.70af88a0.chunk.js.map": "/thomas5/fb-canton-tutor-app.git/static/js/453.70af88a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8a2c0030.js"
+  ]
+}
